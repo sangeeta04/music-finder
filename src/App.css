@@ -1,0 +1,33 @@
+
+.App {
+  min-height: 10vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.Text-Field-Css {
+  margin-right: 1vh;
+}
+.Btn-Css {
+  background-color: #0000FF;
+  color: white;
+}
+.Music-Data{
+  display: flex;
+  flex-direction: row;
+  border-style: groove;
+  background-color: white;
+}
+.Content{
+  display: table-column;
+  margin-top: -4vh;
+}
+.More{
+  float: left;
+  margin-left: 27vh;
+}
+.root{
+  display:flex;
+  margin-Top: 7vh;
+  }
